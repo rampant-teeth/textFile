@@ -1,2 +1,4 @@
 some data for the file
-4 lines
+Add some more text
+make it three lines
+add 4 lines
